@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TkeyaSM
-- I'm currently learing Ruby.
+- I'm currently learning Ruby.
 - 📫 How to reach me marquez.tkeya@gmail.com
 
 <!---
